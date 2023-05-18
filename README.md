@@ -1,16 +1,10 @@
 # my_app_in_flutter
 
-A new Flutter project.
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Flutter wallpaper](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)
 
-## Getting Started
+En este proyecto hacemos una mina app en flutter mostrando los componentes y sus uso adecuado además de los botones tal cómo se ha indicado en el deber
 
-This project is a starting point for a Flutter application.
+![proyecto](assets/project.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+😁
